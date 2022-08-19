@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.tcc": "c",
+    "random": "c",
+    "iosfwd": "c",
+    "functional": "c",
+    "valarray": "c",
+    "*.inc": "c"
+  }
+}
